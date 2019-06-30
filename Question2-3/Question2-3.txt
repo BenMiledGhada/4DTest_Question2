@@ -1,0 +1,7 @@
+Similarities: Both filters, neglet the pixels around the border (there is no special condition to process or to filter border pixels)
+
+Filter 2-1 gets slower and slower the more size the image have.
+Filter 2-2 its algorithm use brute force (going through for each pixel all the surrounding pixels):
+- it will be more accuruate and effective In noise removal than filter 2-1
+- it takes more (processing) time to filter an image than filter 2-1
+- since this algorithm is a brute it, the processing time will grow rapidly.

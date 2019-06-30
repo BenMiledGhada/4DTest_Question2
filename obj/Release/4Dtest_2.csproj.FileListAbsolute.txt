@@ -1,0 +1,14 @@
+E:\4DTest\4Dtest_2\bin\Release\4Dtest_2.exe.config
+E:\4DTest\4Dtest_2\bin\Release\4Dtest_2.exe
+E:\4DTest\4Dtest_2\bin\Release\4Dtest_2.pdb
+E:\4DTest\4Dtest_2\obj\Release\4Dtest_2.csprojAssemblyReference.cache
+E:\4DTest\4Dtest_2\obj\Release\MainWindow.baml
+E:\4DTest\4Dtest_2\obj\Release\MainWindow.g.cs
+E:\4DTest\4Dtest_2\obj\Release\App.g.cs
+E:\4DTest\4Dtest_2\obj\Release\4Dtest_2_MarkupCompile.cache
+E:\4DTest\4Dtest_2\obj\Release\4Dtest_2.g.resources
+E:\4DTest\4Dtest_2\obj\Release\_4Dtest_2.Properties.Resources.resources
+E:\4DTest\4Dtest_2\obj\Release\4Dtest_2.csproj.GenerateResource.cache
+E:\4DTest\4Dtest_2\obj\Release\4Dtest_2.csproj.CoreCompileInputs.cache
+E:\4DTest\4Dtest_2\obj\Release\4Dtest_2.exe
+E:\4DTest\4Dtest_2\obj\Release\4Dtest_2.pdb
